@@ -71,9 +71,9 @@ real patients correctly identified before complications set in.
 
 | Metric | Logistic Regression | Random Forest |
 |---|---|---|
-| Train Accuracy | High (overfitted) | 90% |
+| Train Accuracy | 89% | 90% |
 | Test Accuracy | — | 89% |
-| Train Recall (Diabetic) | 99% (overfitted) | 93% |
+| Train Recall (Diabetic) | 88% | 93% |
 | CV Mean Recall | — | 91% |
 | Test Recall (Diabetic) | — | **91%** ✅ |
 
