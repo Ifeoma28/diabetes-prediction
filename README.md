@@ -25,7 +25,7 @@ real patients correctly identified before complications set in.
 | File | Description |
 |---|---|
 | `project_1.ipynb` | Main analysis notebook |
-| `diabetes_prediction_dataset.csv` | Dataset — 96,146 patients |
+| `diabetes_prediction_dataset.csv` | Dataset — 96,146 unique records|
 | `README.md` | Project documentation |
 
 ---
@@ -35,7 +35,7 @@ real patients correctly identified before complications set in.
 | Property | Details |
 |---|---|
 | Source | Diabetes Prediction Dataset |
-| Total Records | 100,000 patients | 3,856 duplicates 
+| Total Records | 100,000 records | 3,856 duplicates 
 | Features | age, bmi, blood_glucose_level, HbA1c_level, hypertension, heart_disease, smoking_history, gender |
 | Target | diabetes (0 = No Diabetes, 1 = Diabetic) |
 | Class Distribution | Non-Diabetic: 91.2% \| Diabetic: 8.8% |
