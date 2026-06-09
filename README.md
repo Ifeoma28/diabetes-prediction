@@ -35,7 +35,7 @@ real patients correctly identified before complications set in.
 | Property | Details |
 |---|---|
 | Source | Diabetes Prediction Dataset |
-| Total Records | 96,146 patients |
+| Total Records | 100,000 patients | 3,856 duplicates 
 | Features | age, bmi, blood_glucose_level, HbA1c_level, hypertension, heart_disease, smoking_history, gender |
 | Target | diabetes (0 = No Diabetes, 1 = Diabetic) |
 | Class Distribution | Non-Diabetic: 91.2% \| Diabetic: 8.8% |
