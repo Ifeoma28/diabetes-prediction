@@ -1,5 +1,5 @@
 # diabetes-prediction
-End-to-end ML project predicting diabetes diagnosis using Logistic Regression and Random Forest with 91% recall on 96,146 patient records
+End-to-end ML project predicting diabetes diagnosis using Logistic Regression and Random Forest with 91% recall on 96,146 unique patient records
 # Diabetes Patient Prediction with Machine Learning
 
 ## 👤 Author
